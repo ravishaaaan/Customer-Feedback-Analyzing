@@ -1,0 +1,7 @@
+Link to Code - https://colab.research.google.com/drive/1uoA2cYpV8oZWM_yMtFwtgl6oYu0nz0j7?usp=sharing
+
+--------------------------------------------------------------------------------------------------------
+1. Open the link
+2. Run the code
+3. Upload the "data.zip" to the "choose files" in data set section
+4. That's it........................!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
